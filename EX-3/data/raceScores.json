@@ -1,0 +1,23 @@
+[
+          {
+                    "id": "participant1",
+                    "type": "swim",
+                    "time": {
+                              "_totalSeconds": 150
+                    }
+          },
+          {
+                    "id": "participant1",
+                    "type": "run",
+                    "time": {
+                              "_totalSeconds": 105
+                    }
+          },
+          {
+                    "id": "participant2",
+                    "type": "swim",
+                    "time": {
+                              "_totalSeconds": 195
+                    }
+          }
+]
